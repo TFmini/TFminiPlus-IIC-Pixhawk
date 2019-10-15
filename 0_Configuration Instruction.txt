@@ -1,0 +1,5 @@
+Connect TFmini Plus with PC by TTL adapter:
+1.Upgrading firmware of TFmini Plus,see folder"1_TFmini Plus firmware upgrading"
+2.Set frame rate to 250Hz,see folder"2_Parameter setting of TFmini Plus"
+3.Set TFmini Plus IIC slave address, see folder"2_Parameter setting of TFmini Plus"
+4.Set TFmini Plus to IIC,see folder"2_Parameter setting of TFmini Plus"
